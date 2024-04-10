@@ -15,7 +15,7 @@ Linguagens: HTML e CSS
 
 Estrutura para resposividade: CSS Media Query
 
-📚 O projeto pode ser visualizado e testado pelo seguinte link: 
+📚 O projeto pode ser visualizado e testado pelo seguinte link: https://wauespter.github.io/AluraPlus-Responsive/
 
 📁 O projeto pode ser acessado aqui no repositório.
 
